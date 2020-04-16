@@ -1,2 +1,2 @@
 # hunt-api
-a simple api using mongoose 
+Simple api, using mongoose for crud 
